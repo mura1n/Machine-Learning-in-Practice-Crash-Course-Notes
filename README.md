@@ -14,5 +14,6 @@
 
 最后，如果胡神看到了这个链接，我只想说四个字：感谢！催更！
 
-# 导航栏（不包含第一章导论部分）
-- 第二章 [机器学习问题的定义&泛化&度量](https://github.com/mura1n)
+# 笔记导航栏（不包含第一章导论部分）
+- 第二章 [机器学习问题的定义&泛化&度量](https://github.com/mura1n/Machine-Learning-in-Practice-Crash-Course-Notes/blob/main/notes/week02_%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%E7%9A%84%E5%AE%9A%E4%B9%89%26%E6%B3%9B%E5%8C%96%26%E5%BA%A6%E9%87%8F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%97%AE%E9%A2%98%E7%9A%84%E5%AE%9A%E4%B9%89%26%E6%B3%9B%E5%8C%96%26%E5%BA%A6%E9%87%8F.md)
+- 第三章 [贝叶斯决策](https://github.com/mura1n/Machine-Learning-in-Practice-Crash-Course-Notes/blob/main/notes/week03_%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%86%B3%E7%AD%96/%E7%AC%AC%E4%B8%89%E7%AB%A0%20%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%86%B3%E7%AD%96%20a790dee928a2470bba2411e90b047074.md)
